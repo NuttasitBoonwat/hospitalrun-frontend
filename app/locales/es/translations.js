@@ -19,7 +19,7 @@ export default {
     customForms: {
       buttons: {
         addField: 'Agregue campo',
-        moveDown: 'mover hacia abajo,
+        moveDown: 'mover hacia abajo',
         moveUp: '',
         newForm: '',
         preview: ''
