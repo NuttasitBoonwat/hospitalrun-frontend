@@ -18,8 +18,8 @@ export default {
     addressOptions: 'Opciones de direcciones',
     customForms: {
       buttons: {
-        addField: '',
-        moveDown: '',
+        addField: 'Agregue campo',
+        moveDown: 'mover hacia abajo,
         moveUp: '',
         newForm: '',
         preview: ''
