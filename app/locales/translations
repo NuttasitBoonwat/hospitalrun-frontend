@@ -1,5 +1,5 @@
 export default {
-  languageName: 'Thailand',
+  languageName: 'Thai',
   admin: {
     address: {
       address1Label: 'ที่อยู่ Label 1',
@@ -1477,7 +1477,7 @@ export default {
   },
   vitals: {
     labels: {
-      dateRecorded: 'วันที่ที่บันทึก',
+      dateRecorded: 'วันที่บันทึก',
       dbp: 'DBP',
       heartRate: 'อัตราการเต้นของหัวใจ',
       height: 'ความสูง',
